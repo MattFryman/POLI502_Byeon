@@ -67,7 +67,7 @@ X3<-X1*X2
 
 # 4-1: Create an object called part.1 that is equal to "30 plus 6"
 
-part.1 <-30+6
+part.1 <- 30+6
 
 
 # 4-2: Create an object called part.2 that is equal to 4 times part.1

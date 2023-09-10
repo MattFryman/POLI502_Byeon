@@ -22,7 +22,7 @@ ls()
 
 # Create a new object named x5 that is a number 100.
 
-x5 <- 100
+x5 <-100
 
 # Calculate the square root of x5 using the sqrt() function
 
